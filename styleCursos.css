@@ -1,0 +1,91 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+.cabecera{
+	background-color: #E63C2F;
+	width:100%;
+}
+
+.cabecera img{
+width: 20%;
+margin: 10px 0 10px 0; 
+float: center;
+}
+
+.cabecera a {
+font-family: arial;
+color: white;
+font-size: 18px;
+}
+
+.nav a:hover {
+font-family: arial;
+color: black;
+}
+
+.dropdown-menu a{
+color: black;
+
+}
+/**********************************/
+
+
+#present h3{
+	text-align: center;
+	font-size: 20px;
+	font-family: Arial Black;
+}
+
+#present h2{
+	font-family: Arial black;
+	font-size: 20px;
+}
+	
+ #present ul{
+	margin-left: 40px;
+	font-size: 20px;
+}
+
+#present  li{
+	list-style-type: disc;
+	font-family: Arial;
+	font-size: 16px;
+}
+#present p{
+font-size: 16px;
+}
+
+#present{
+margin-right: 10%;
+margin-left: 10%;
+margin-bottom: 40px;
+margin-top: 40px;
+}
+
+
+
+/**************************************/
+
+footer{
+	width: 100%;
+	background-color: #262626;
+	font-family: Arial;
+	color: white;
+	padding: 0px 0px 5px 0px;
+}
+
+footer h2{
+	font-size: 25px;
+	font-family: Arial;
+}
+
+footer p{
+	font-size: 15px;
+}
+
