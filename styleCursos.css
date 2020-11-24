@@ -13,7 +13,6 @@ body{
 }
 
 .cabecera img{
-width: 20%;
 margin: 10px 0 10px 0; 
 float: center;
 }
@@ -58,7 +57,7 @@ color: black;
 	font-size: 16px;
 }
 #present p{
-font-size: 16px;
+text-align: justify;
 }
 
 #present{
